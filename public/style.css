@@ -35,7 +35,7 @@ nav ul li a:hover {
 }
 
 .background {
-    background-image: url("public/bg.jpg");
+    background-image: url("http://localhost:3000/bg.jpg");
     height: 100%;
 
     background-attachment: fixed;
@@ -56,7 +56,7 @@ footer {
 }
 
 .logo_katedra {
-    background: url("./ki.jpg");
+    background: url("http://localhost:3000/ki.jpg");
     background-size: cover;
     width: 200px;
     height: 200px;
@@ -65,7 +65,7 @@ footer {
 }
 
 .logo-at {
-    background: url("./at.jpg");
+    background: url("http://localhost:3000/at.jpg");
     background-size: cover;
     width: 200px;
     height: 200px;
